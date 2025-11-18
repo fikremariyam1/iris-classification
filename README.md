@@ -19,7 +19,7 @@ The assignment was completed as a requirement for the **Data Mining and Data War
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 The model, a **Decision Tree Classifier**, was trained and evaluated on a held-out test set, demonstrating strong predictive performance.
 
