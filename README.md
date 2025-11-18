@@ -1,5 +1,14 @@
 #  Iris Flower Species Classification with Decision Trees
 
+##  Group Members
+
+| Name | ID |
+| :--- | :--- |
+| Abel Tamiru | 1213 |
+| Fikremariyam Tadesse | 0990 |
+| Jalane Lamessa | 1244 |
+| Meseret Kassa | 1433 |
+| Natinael Tegegne | 1570 |
 ##  Project Overview
 
 This project implements a complete data mining and predictive modeling workflow on the **Iris Flower Dataset**. The primary goal is to build a classification model to accurately predict the species of an iris flower (**Setosa**, **Versicolor**, or **Virginica**) based on its sepal and petal measurements.
