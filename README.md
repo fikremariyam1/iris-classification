@@ -1,6 +1,6 @@
 #  Data Mining Project: Iris Flower Species Classification with Decision Trees
 
-##  Group Details
+##  Group Members
 
 | Name | ID |
 | :--- | :--- |
