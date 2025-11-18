@@ -68,7 +68,6 @@ The raw output of the Confusion Matrix confirms the classification performance: 
 
 ##  Key Visualizations
 
-*Please ensure these images are uploaded to your GitHub repository and linked below.*
 
 ### 1. Decision Tree Structure
 
