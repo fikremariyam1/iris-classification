@@ -76,7 +76,8 @@ The visualization of the trained tree provides a transparent, rule-based view of
 
 
 
-[Image of Decision Tree Classification Diagram]
+<img width="1105" height="636" alt="download" src="https://github.com/user-attachments/assets/8373fae7-f28d-4bc9-92c1-648353d08155" />
+
 
 
 ### 2. Exploratory Data Analysis (EDA)
